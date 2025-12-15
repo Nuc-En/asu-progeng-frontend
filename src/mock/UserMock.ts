@@ -1,11 +1,11 @@
 export const userMock: User = {
   id: 1,
-  name: 'John Doe',
-  email: '4sKZV@example.com',
+  name: "Александр Петров",
+  email: "4sKZV@example.com",
   avatar:
-    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1nkrYXY-ijQv5aCxkwooyg2roNFxj0ewJA&s',
-  password: 'password',
-  role: 'user',
+    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200&q=80",
+  password: "password",
+  role: "user",
   createdAt: new Date(),
   updatedAt: new Date(),
 };
